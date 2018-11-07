@@ -1,9 +1,9 @@
 
-# mdx-deck basic template
+# GraphQL Summit 2018 - Testing
 
 This was generated with [mdx-deck][]'s `npm init deck` command.
 
-## Development
+## Running
 
 To run the presentation deck in development mode:
 
