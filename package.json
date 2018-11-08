@@ -15,5 +15,6 @@
   "devDependencies": {
     "mdx-deck": "^1.6.7"
   },
-  "name": "summit-testing"
+  "name": "summit-testing",
+  "dependencies": {}
 }
